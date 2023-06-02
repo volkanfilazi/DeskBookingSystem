@@ -1,5 +1,6 @@
 {
   "name": "deskbookingsystem-hv",
+  "license": "MIT",
   "private": true,
   "version": "0.0.0",
   "type": "module",
